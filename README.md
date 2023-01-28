@@ -1,6 +1,6 @@
 # 50-Days-of-Python-Challenge
 This repo contains solutions to Python Challenge questions in Benjamin Bennett Alexander book titled: 5o Days of python, A Challenge for a day.
-I provided other mehtods for sloving the questions other than the methos in the textbooks.
+I provided other methods for solving the questions other than the method in the textbook.
 
 `NOTE: The challenge is still ongoing, I will be updating the files as time goes on.`
 
