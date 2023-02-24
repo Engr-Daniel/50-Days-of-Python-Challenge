@@ -39,7 +39,7 @@ Day 10: **Hide my Password**
 Day 11: **Are They Equal?**
 * Extra Challenge: Swap Values
 
-Day 12:** Count the Dots**
+Day 12: **Count the Dots**
 * Extra Challenge: Your Age in Minutes
 
 Day 13: **Pay Your Tax**
