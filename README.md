@@ -1,4 +1,7 @@
 # 50-Days-of-Python-Challenge
+
+<img width="150" alt="Screenshot 2023-01-15 194301" src="https://user-images.githubusercontent.com/103637488/221225286-802f1279-2340-48a2-8beb-4e87424b4ce4.png">
+
 This repo contains solutions to Python Challenge questions in Benjamin Bennett Alexander book titled: 5o Days of python, A Challenge for a day.
 I provided other methods for solving the questions other than the method in the textbook.
 
